@@ -1,3 +1,3 @@
 Hello this is my HTML project. 
 
-this is about recipes
+This is about recipes
